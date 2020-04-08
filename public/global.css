@@ -25,7 +25,7 @@ a:visited {
 	color: rgb(0,80,160);
 }
 
-label {
+/* label {
 	display: block;
 }
 
@@ -59,4 +59,4 @@ button:active {
 
 button:focus {
 	border-color: #666;
-}
+} */
