@@ -5,6 +5,7 @@
     "@material/typography": "^3.1.0",
     "@smui/button": "^1.0.0-beta.20",
     "@smui/textfield": "^1.0.0-beta.20",
+    "@types/jsonld": "^1.5.1",
     "rollup": "^1.12.0",
     "rollup-plugin-commonjs": "^10.0.0",
     "rollup-plugin-livereload": "^1.0.0",
@@ -17,6 +18,7 @@
     "svelte-preprocess": "^3.2.6"
   },
   "dependencies": {
+    "jsonld": "^3.0.1",
     "sirv-cli": "^0.4.4"
   },
   "scripts": {
